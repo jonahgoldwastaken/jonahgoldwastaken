@@ -1,6 +1,8 @@
 ### I build enticing experiences that keep your users hooked
 
-I am Jonah, a Interaction Design and Developer student based in Amsterdam. I currently just focus on my studies, but am always open to dabble with exciting and refreshing ideas. Check out my portfolio at [jonahmeijers.com](https://jonahmeijers.com)
+I am Jonah, a Interaction Design and Developer student based in Amsterdam. I like good design, good code and good things that make the world a better place.
+
+I currently just focus on my studies, but am always open to dabble with exciting and refreshing ideas. Check out my portfolio at [jonahmeijers.com](https://jonahmeijers.com)!
 
 [![Jonah's github stats](https://github-readme-stats.vercel.app/api?username=theonejonahgold)](https://github.com/anuraghazra/github-readme-stats)
 
