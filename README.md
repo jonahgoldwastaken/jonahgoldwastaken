@@ -5,8 +5,8 @@ I am Jonah, a Interaction Design and Developer student based in Amsterdam. I lik
 I currently just focus on my studies, but am always open to dabble with exciting and refreshing ideas. Check out my portfolio at [jonahgold.dev](https://jonahgold.dev)!
 
 <div style="display:flex;" align="left">
-  <img alt="Jonah's github stats" src="https://github-readme-stats.vercel.app/api?username=jonahgoldwastaken&theme=github_dark&count_private=true" />
-  <img height="195" alt="Jonah's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgoldwastaken&theme=github_dark&layout=compact&count_private=true"/> 
+  <img height="165" alt="Jonah's github stats" src="https://github-readme-stats.vercel.app/api?username=jonahgoldwastaken&theme=github_dark&count_private=true" />
+  <img alt="Jonah's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgoldwastaken&theme=github_dark&layout=compact&count_private=true"/> 
 </div>
 
 <!--
