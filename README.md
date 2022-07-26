@@ -4,8 +4,10 @@ I am Jonah, a Interaction Design and Developer student based in Amsterdam. I lik
 
 I currently just focus on my studies, but am always open to dabble with exciting and refreshing ideas. Check out my portfolio at [jonahgold.dev](https://jonahgold.dev)!
 
-[![Jonah's github stats](https://github-readme-stats.vercel.app/api?username=jonahgoldwastaken&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Jonah's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgoldwastaken&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex;" align="left">
+  <img alt="Jonah's github stats" src="https://github-readme-stats.vercel.app/api?username=jonahgoldwastaken&theme=github_dark&count_private=true" />
+  <img height="195" alt="Jonah's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgoldwastaken&theme=github_dark&layout=compact&count_private=true"/> 
+</div>
 
 <!--
 **theonejonahgold/theonejonahgold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
